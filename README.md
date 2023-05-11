@@ -13,9 +13,7 @@
 ### Glad to see you here!  
 I’m a passionate junior web developer with a Search Engine Marketing (SEM) background and experience of more than 5 years in digital marketing. 
 
-I am now giving a boost to my career focusing on coding.  
-
-<br/>  
+I am now giving a boost to my career focusing on coding.   
 
 
 - 🌱 I’m currently learning full stack development with School of Code  
@@ -77,7 +75,7 @@ I am now giving a boost to my career focusing on coding.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Ikram-Zak&&style=flat-square)  
   
-*/
+
 <br/>  
 
 
