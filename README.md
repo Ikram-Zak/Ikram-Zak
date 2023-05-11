@@ -55,7 +55,7 @@ I am now giving a boost to my career focusing on coding.
 
 <br/>  
 
-<!--
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -66,7 +66,7 @@ I am now giving a boost to my career focusing on coding.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Zak&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
--->
+
 <br/>  
 
   
@@ -78,7 +78,8 @@ I am now giving a boost to my career focusing on coding.
 
 <br/>  
 
-
+<!--
+-->
 <br />
 
 ----
