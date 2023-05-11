@@ -10,13 +10,10 @@
   
 
 
-
 ### Glad to see you here!  
 I’m a passionate junior web developer with a Search Engine Marketing (SEM) background and experience of more than 5 years in digital marketing. 
 
-I am now giving a boost to my career focusing on coding.
-  
-  
+I am now giving a boost to my career focusing on coding.  
 
 <br/>  
 
@@ -60,7 +57,7 @@ I am now giving a boost to my career focusing on coding.
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -71,7 +68,7 @@ I am now giving a boost to my career focusing on coding.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Zak&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
+-->
 <br/>  
 
   
@@ -80,7 +77,7 @@ I am now giving a boost to my career focusing on coding.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Ikram-Zak&&style=flat-square)  
   
-
+*/
 <br/>  
 
 
