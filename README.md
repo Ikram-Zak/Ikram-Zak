@@ -57,17 +57,21 @@ I am now giving a boost to my career focusing on coding.
 
 
 ## Github Stats  
-<table>
+
   <!--
+<table>
   <tr>
     <td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=Ikram-Zak&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td>
+
+</table>  **tag a metter a la fin de </tr>
+ <td valign="top" width="50%">
     -->
-    <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Zak&hide_border=true&layout=compact" align="left" style="width: 100%" />
+   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Zak&hide_border=true&layout=compact" align="left" style="width: 45%" />
 </td>
-  </tr></table>  
+  </tr>
 
 <br/>  
 
@@ -84,5 +88,3 @@ I am now giving a boost to my career focusing on coding.
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
