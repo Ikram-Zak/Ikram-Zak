@@ -16,7 +16,7 @@ I’m a passionate junior web developer with a Search Engine Marketing (SEM) bac
 I am now giving a boost to my career focusing on coding.   
 
 
-- 🌱 I’m currently learning full stack development with School of Code  
+- 🌱 I’m currently learning Python alognside Javascript  
   
 
 - 🌎 I'm based in London  
