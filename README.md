@@ -16,7 +16,10 @@ I’m a passionate junior web developer with a Search Engine Marketing (SEM) bac
 I am now giving a boost to my career focusing on coding.   
 
 
-- 🌱 I’m currently learning Python alognside Javascript  
+- 🌱 I’m learning Python alognside Javascript  
+
+
+- 💻 I'm currently working on 'Le Grimoire' a side project in Javascript, the repo is yet to be public :)
   
 
 - 🌎 I'm based in London  
