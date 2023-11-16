@@ -11,9 +11,9 @@
 
 
 ### Glad to see you here!  
-I’m a passionate junior web developer with a Search Engine Marketing (SEM) background and experience of more than 5 years in digital marketing. 
+Passionate junior professional with a Search Engine Marketing (SEM) background and experience of more than 5 years in digital marketing. 
 
-I am now giving a boost to my career focusing on coding.   
+I am now giving a boost to my career focusing on data and coding.   
 
 
 - 🌱 I’m learning Python alongside Javascript  
