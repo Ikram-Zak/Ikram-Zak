@@ -13,19 +13,9 @@
 ### Glad to see you here!  
 Passionate junior professional with a Search Engine Marketing (SEM) background and experience of more than 5 years in digital marketing. 
 
-I am now giving a boost to my career focusing on data and coding.   
+I am now giving a boost to my career focusing on data engineering.   
 
-
-- 🌱 I’m learning Python alongside Javascript  
-
-
-- 💻 I'm currently working on 'Le Grimoire' a side project in Javascript, the repo is yet to be public :)
-  
-
-- 🌎 I'm based in London  
-  
-
-- ✉️ Want to get in touch? You can write me [here](ikram.zakaria200@gmail.com)  
+ 
   
 
 
