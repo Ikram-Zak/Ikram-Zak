@@ -11,9 +11,7 @@
 
 
 ### Glad to see you here!  
-Passionate junior professional with a Search Engine Marketing (SEM) background and experience of more than 5 years in digital marketing. 
-
-I am now giving a boost to my career focusing on data engineering.   
+   
 
  
   
